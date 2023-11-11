@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Demo 2 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/vta
+Data file = C:\xampp\htdocs\vta/wp-content/themes/grandtour/cache/demos/xml/demo2/2_woo.xml
+Widget file = C:\xampp\htdocs\vta/wp-content/themes/grandtour/cache/demos/xml/demo2/2.wie
+Customizer file = C:\xampp\htdocs\vta/wp-content/themes/grandtour/cache/demos/xml/demo2/2.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Sidebar : 
+
+Text - No Title - Imported
+Text - Contact Info - Imported
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
