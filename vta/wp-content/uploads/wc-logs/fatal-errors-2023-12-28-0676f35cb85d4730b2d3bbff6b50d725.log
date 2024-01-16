@@ -1,0 +1,2 @@
+2023-12-28T06:30:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\vta\wp-includes\Requests\src\Transport\Curl.php on line 205
+
